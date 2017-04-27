@@ -1,0 +1,10 @@
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Model\bin\Debug\LearnOnline.Model.dll.config
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Model\bin\Debug\LearnOnline.Model.dll
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Model\bin\Debug\LearnOnline.Model.pdb
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Model\bin\Debug\EntityFramework.dll
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Model\bin\Debug\EntityFramework.xml
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Model\obj\Debug\LearnOnline.Model.csprojResolveAssemblyReference.cache
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Model\obj\Debug\LearnOnline.Model.dll
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Model\obj\Debug\LearnOnline.Model.pdb

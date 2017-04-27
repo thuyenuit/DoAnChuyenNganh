@@ -1,0 +1,13 @@
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Service\bin\Debug\LearnOnline.Service.dll
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Service\bin\Debug\LearnOnline.Service.pdb
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Service\bin\Debug\LearnOnline.Common.dll
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Service\bin\Debug\LearnOnline.Data.dll
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Service\bin\Debug\LearnOnline.Model.dll
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Service\bin\Debug\EntityFramework.dll
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Service\bin\Debug\LearnOnline.Common.pdb
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Service\bin\Debug\LearnOnline.Data.pdb
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Service\bin\Debug\LearnOnline.Model.pdb
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Service\bin\Debug\EntityFramework.xml
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Service\obj\Debug\LearnOnline.Service.csprojResolveAssemblyReference.cache
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Service\obj\Debug\LearnOnline.Service.dll
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Service\obj\Debug\LearnOnline.Service.pdb

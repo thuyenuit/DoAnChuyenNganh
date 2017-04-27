@@ -1,0 +1,4 @@
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Common\bin\Debug\LearnOnline.Common.dll
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Common\bin\Debug\LearnOnline.Common.pdb
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Common\obj\Debug\LearnOnline.Common.dll
+D:\HK II (2016-2017)\Do an chuyen nganh\LearnOnline\LearnOnline.Common\obj\Debug\LearnOnline.Common.pdb
